@@ -1,0 +1,6 @@
+region = "eu-west-2"
+vpccidr_block = "10.0.0.0/16"
+subcidr_block = "10.0.1.0/24"
+ami = "ami-0272ade54c4f22c84"
+instancetype = "t2.micro"
+tag = "Prod"
